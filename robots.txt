@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aijohshote.adie.codes/sitemap.xml
